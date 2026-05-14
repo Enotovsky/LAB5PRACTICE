@@ -1,0 +1,17 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.coverage
+.codex-temp/
+.mypy_cache/
+.pytest_cache/
+.pytest_tmp/
+pytest-cache-files-*/
+htmlcov/
+app.log
+result.json
+*.tmp
+data/
+test_set_mem.py
+test_set_mem2.py
